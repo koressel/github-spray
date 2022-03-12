@@ -5,6 +5,9 @@
   "bin": {
     "github-spray": "index.js"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "files": [
     "index.js",
     "alphabet.js",
